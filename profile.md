@@ -6,9 +6,9 @@
 - 本科 / 计算机科学与技术 / 成都文理学院 (2012-2016)
 - 技术博客：[itisw.com](https://itisw.com)
 - Github：[github.com/SummerWQM](https://github.com/SummerWQM)
-- 目前状况：2年工作经验 / 带实习生
+- 目前状况：2年半工作经验 / 带实习生
 - 联系方式：183 8048 5605 / 1160302203@qq.com
-- 求职意向：后端工程师 / 成都 | 上海 | 杭州
+- 求职意向：后端工程师 / 成都 | 上海 | 北京
 
 ## 工作经历
 ### 成都途风国际旅行社([toursforfun.com](https://cn.toursforfun.com)) 2015-12 - 至今
