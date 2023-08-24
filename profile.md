@@ -10,8 +10,6 @@
 
 <div style="width: auto; height:16px; line-height:17px; float:left;font-size:17px"><img src="file:///Users/jack/project/profile/tel.png" style="float:left;text-algin: left width:17px;height:17px;padding-right:5px"/>联系方式：18380485605 / 1160302203@qq.com</div><br/>
 
-<div style="width: auto; height:16px; line-height:17px; float:left;font-size:17px"><img src="file:///Users/jack/project/profile/10.png" style="float:left;text-algin: left width:17px;height:17px;padding-right:5px"/>标签: 7年经验、当前在职</div><br/>
-
 ## 工作经历
 
 ### 微盟 2021/05 - 至今
@@ -22,16 +20,10 @@
 #### 主要项目
 
 - **批价中台**
-  
-  - 负责批价优惠计算模块核心代码的开发。
-  
-  - 负责执行流程的可视化编排，包括内部和外部 PASS。
-  - 优惠使用的自动推荐功能，丰富了商户促销能力，同时商户入驻率增长10%。
-  
+  -负责支付中台建设，包括支付系统的架构设计、平台搭建和功能开发。同时，负责监控业务运行情况，具备敏锐的观察能力，能够及时发现并解决支付系统中出现的问题和风险。此外，负责搭建支付系统的对账能力，确保支付数据的准确性和一致性，以及与各方之间的对账流程的顺畅进行  
 - **流控平台**
-
     - 主导流量控制平台的设计开发
-
+    
     - 负责搭建基于请求窗口计数因子维度的限流原子层，使用滑动窗口、固定窗口、匀速限流相关算法。
     - 负责搭建基于用户行为因子维度的数据原子层，建设行为特征模板，特征数据收集，相似性计算。
     - 推进了 20+ 应用接入，并发布研发中心公众号技术文章，同时推进该项目的专利申请。
@@ -54,8 +46,8 @@
   - 引入什么设计方案 实现 TB 级数据检索。 
   - 负责服务器指标性能算法设计与实施。
   - 推进深圳健康码 SAAS 化接入产品。
-  - 检索优化，优化基于ES 的搜索引擎
-  - 通过腾讯云从业认证
+  - 检索优化，优化基于ES 的搜索引擎。
+  - 通过腾讯云从业认证。
   
 - **技术顾问**
 
